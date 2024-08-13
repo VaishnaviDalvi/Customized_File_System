@@ -1,8 +1,6 @@
 
-//help:used
-//https://man7.org/linux/man-pages/man1/man.1.html
-//https://man7.org/linux/man-pages/man1/stat.1.html
-      
+//Customized Virtual File System
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
